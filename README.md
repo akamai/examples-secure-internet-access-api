@@ -1,5 +1,6 @@
-# Introduction 
-Analytics API client examples to illustrate using the Analytics API for [Secure Mobile Connectivity, Visibility & Control](https://developer.securemobi.net/)
+# Introduction
 
-The Python sample uses a [Jupyter](https://jupyter.org/) Python notebook.
+This repository contains example client applications using REST API for [Secure Mobile Connectivity, Visibility & Control](https://developer.securemobi.net/)
 
+
+You will require API credentails to get started wuth these examples, the [Quick Start guide](https://developer.securemobi.net/docs/quick-start) has details of how to obtain credentials.
